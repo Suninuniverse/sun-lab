@@ -8,7 +8,7 @@ permalink: /people/
 
 <div class="pi-card">
   <div class="pi-photo">
-    <img src="{{ site.baseurl }}/assets/images/jie-sun.jpg" alt="Jie Sun">
+    <img src="{{ site.baseurl }}/assets/images/jie-sun.png" alt="Jie Sun">
   </div>
 
   <div class="pi-info">
