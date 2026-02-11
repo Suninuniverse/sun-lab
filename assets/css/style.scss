@@ -3,28 +3,13 @@
 
 @import "{{ site.theme }}";
 
-/* ============ Global ============ */
-.page-header {
-  padding: 3.5rem 1rem 3rem;
-}
-
-.project-name {
-  letter-spacing: 0.2px;
-}
-
+/* Layout */
 .main-content {
   max-width: 980px;
   padding: 2.2rem 1.25rem;
 }
 
-.main-content h1, .main-content h2, .main-content h3 {
-  margin-top: 1.8rem;
-}
-
-a { text-decoration: none; }
-a:hover { text-decoration: underline; }
-
-/* ============ Hero block ============ */
+/* Hero */
 .hero {
   margin: 1.2rem 0 1.6rem;
   padding: 1.2rem 1.25rem;
@@ -33,10 +18,10 @@ a:hover { text-decoration: underline; }
   background: rgba(255,255,255,0.75);
 }
 
-.hero .kws {
-  margin-top: 0.6rem;
+.hero .sub {
+  margin-top: 0.55rem;
   opacity: 0.9;
-  font-size: 0.98rem;
+  font-size: 1rem;
 }
 
 .badges {
@@ -55,12 +40,8 @@ a:hover { text-decoration: underline; }
   font-size: 0.9rem;
 }
 
-/* ============ Card grid ============ */
-.grid {
-  display: grid;
-  gap: 1rem;
-}
-
+/* Grids & cards */
+.grid { display: grid; gap: 1rem; }
 .grid.two { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 .grid.three { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 
@@ -81,50 +62,10 @@ a:hover { text-decoration: underline; }
   box-shadow: 0 10px 28px rgba(0,0,0,0.07);
 }
 
-.card .meta {
-  opacity: 0.8;
-  font-size: 0.92rem;
+.meta {
+  opacity: 0.82;
+  font-size: 0.95rem;
   margin-top: 0.35rem;
 }
 
-/* ============ People cards ============ */
-.people {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 1rem;
-}
-
-@media (max-width: 900px) {
-  .people { grid-template-columns: 1fr; }
-}
-
-.person {
-  border: 1px solid rgba(0,0,0,0.08);
-  border-radius: 14px;
-  padding: 1rem;
-  background: rgba(255,255,255,0.85);
-  display: grid;
-  grid-template-columns: 64px 1fr;
-  gap: 0.9rem;
-  align-items: center;
-}
-
-.avatar {
-  width: 64px;
-  height: 64px;
-  border-radius: 14px;
-  border: 1px solid rgba(0,0,0,0.10);
-  background: rgba(0,0,0,0.03);
-  object-fit: cover;
-}
-
-.person .name { font-weight: 700; }
-.person .role { opacity: 0.8; font-size: 0.95rem; margin-top: 0.1rem; }
-.person .links { margin-top: 0.45rem; font-size: 0.92rem; opacity: 0.95; }
-.person .links a { margin-right: 0.6rem; }
-
-/* ============ Sections ============ */
-.section-title {
-  margin-top: 2.2rem;
-  padding-top: 0.2rem;
-}
+.small { font-size: 0.95rem; opacity: 0.9; }
