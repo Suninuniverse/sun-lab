@@ -212,7 +212,7 @@ main.main-content {
 .hero-title {
   color: #fff;
   font-size: 4.5rem;  /* ✅ 改这里控制大标题字号 */
-  font-weight: 900;
+  font-weight: 1200;
   letter-spacing: 0.2px;
   margin: 0;
 }
@@ -220,7 +220,7 @@ main.main-content {
 /* hero 副标题（学校/学院） */
 .hero-subtitle {
   color: rgba(255,255,255,0.95);
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   margin-top: 0.75rem;
   font-weight: 600;
 }
@@ -228,7 +228,7 @@ main.main-content {
 /* hero 次副标题（部门） */
 .hero-subsubtitle {
   color: rgba(255,255,255,0.90);
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   margin-top: 0.4rem;
 }
 
@@ -352,7 +352,7 @@ main.main-content {
 
 .figure {
   margin: 1.6rem auto;
-  max-width: 980px; /* 图的最大宽度（可改大：1200px） */
+  max-width: 1200px; /* 图的最大宽度（可改大：1200px） */
 }
 
 .figure img {
