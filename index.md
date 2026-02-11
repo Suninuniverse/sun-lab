@@ -35,37 +35,62 @@ molecular mechanisms.
 <!-- =========================
      Research Highlights
      ========================= -->
-
 <h2 style="text-align:center;">Research Highlights</h2>
 
 <div class="grid two">
 
   <div class="card">
-    <b>Fast Photochemical Oxidation of Proteins (FPOP)</b>
-    <div class="meta">
-      Advanced hydroxyl radical footprinting for structural analysis.
+    <div class="card-media">
+      <img src="{{ site.baseurl }}/assets/images/highlight-1.jpg" alt="Mass spectrometry imaging">
+    </div>
+    <div class="card-title">
+      <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202103874" target="_blank" rel="noopener">
+        Mass Spectrometry Imaging Reveals In Situ Behaviors of Multiple Components in Aerosol Particles
+      </a>
+    </div>
+    <div class="meta">Mass Spectrometry Imaging</div>
+    <div class="card-link">
+      <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202103874" target="_blank" rel="noopener">
+        Read the paper →
+      </a>
     </div>
   </div>
 
   <div class="card">
-    <b>Membrane Protein Structural Biology</b>
-    <div class="meta">
-      Novel footprinting strategies for challenging membrane systems.
+    <div class="card-media">
+      <img src="{{ site.baseurl }}/assets/images/highlight-2.jpg" alt="In-cell FPOP membrane proteins">
+    </div>
+    <div class="card-title">
+      <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202424779" target="_blank" rel="noopener">
+        In-Cell Fast Photochemical Oxidation Interrogates the Native Structure of Integral Membrane Proteins
+      </a>
+    </div>
+    <div class="meta">In-cell FPOP • Membrane Proteins</div>
+    <div class="card-link">
+      <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202424779" target="_blank" rel="noopener">
+        Read the paper →
+      </a>
     </div>
   </div>
 
   <div class="card">
-    <b>Protein Therapeutics & Drug Discovery</b>
-    <div class="meta">
-      Interface mapping and epitope characterization.
+    <div class="card-media">
+      <img src="{{ site.baseurl }}/assets/images/highlight-3.jpg" alt="Nanoparticles and photochemistry footprinting">
     </div>
-  </div>
-
-  <div class="card">
-    <b>Quantitative Multi-omics Integration</b>
-    <div class="meta">
-      Linking structural proteomics with systems-level analysis.
+    <div class="card-title">
+      <a href="https://www.nature.com/articles/s41467-021-27588-8" target="_blank" rel="noopener">
+        Nanoparticles and photochemistry for native-like transmembrane protein footprinting
+      </a>
+    </div>
+    <div class="meta">Nanoparticles • Photochemistry • Footprinting</div>
+    <div class="card-link">
+      <a href="https://www.nature.com/articles/s41467-021-27588-8" target="_blank" rel="noopener">
+        Read the paper →
+      </a>
     </div>
   </div>
 
 </div>
+
+
+
