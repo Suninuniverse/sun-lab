@@ -7,9 +7,9 @@ baseurl: "/sun-lab"
 
 header_pages:
   - research.md
+  - publications.md
   - people.md
   - instruments.md
-  - publications.md
   - lab-info.md
   - join-us.md
 
