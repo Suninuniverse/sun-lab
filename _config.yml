@@ -4,7 +4,7 @@ theme: jekyll-theme-cayman
 
 # GitHub Pages 推荐：不要写 url/baseurl（或按你的仓库名写）
 url: ""/sun-lab""
-baseurl: ""
+baseurl: "https://suninuniverse.github.io"
 
 # 顶部导航栏顺序（对齐 yu-research）
 header_pages:
