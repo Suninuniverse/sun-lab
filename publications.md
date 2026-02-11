@@ -6,20 +6,36 @@ permalink: /publications/
 
 # Publications
 
-<p>
-<b>Full publication list:</b> 
-<a href="https://scholar.google.com/citations?user=c0qOb1IAAAAJ&hl=zh-CN" target="_blank">
-Google Scholar Profile
-</a>
-</p>
+<div class="card">
+  <b>Full publication list available on:</b><br>
+  <a href="https://scholar.google.com/citations?user=c0qOb1IAAAAJ&hl=zh-CN" target="_blank">
+    Google Scholar Profile
+  </a>
+</div>
 
----
+<h2>2026</h2>
 
-## 2026
-- Author1, Author2. **Title**. *Journal* (2026). [DOI](https://doi.org/xxxxx)
+<div class="card">
+  <b>Author1, Author2.</b><br>
+  <b>Title of the Paper</b><br>
+  <i>Journal</i> (2026)<br>
+  <a href="https://doi.org/xxxxx">DOI</a>
+</div>
 
-## 2025
-- Author1, Author2. **Title**. *Journal* (2025). [DOI](https://doi.org/xxxxx)
+<h2>2025</h2>
 
-## Preprints
-- Author1, Author2. **Title**. *bioRxiv* (2025). [Link](https://xxxxx)
+<div class="card">
+  <b>Author1, Author2.</b><br>
+  <b>Title of the Paper</b><br>
+  <i>Journal</i> (2025)<br>
+  <a href="https://doi.org/xxxxx">DOI</a>
+</div>
+
+<h2>Preprints</h2>
+
+<div class="card">
+  <b>Author1, Author2.</b><br>
+  <b>Title of the Preprint</b><br>
+  <i>bioRxiv</i> (2025)<br>
+  <a href="https://xxxxx">Link</a>
+</div>
