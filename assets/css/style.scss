@@ -185,3 +185,120 @@ a:hover { text-decoration: underline; }
   border-top: 1px solid rgba(0,0,0,0.08);
   margin: 1.6rem 0;
 }
+
+/* =========================
+   Sun-lab style: dark top nav
+   ========================= */
+
+.topnav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 999;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.75rem 1.25rem;
+  background: #0f3a3f; /* 深青绿，接近截图 */
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+}
+
+.topnav .brand {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-weight: 900;
+  color: #fff;
+  text-decoration: none;
+}
+
+.topnav .logo {
+  width: 34px;
+  height: 34px;
+  border-radius: 8px;
+}
+
+.topnav .links a {
+  color: rgba(255,255,255,0.92);
+  text-decoration: none;
+  padding: 0.35rem 0.55rem;
+  border-radius: 8px;
+}
+
+.topnav .links a:hover {
+  background: rgba(255,255,255,0.10);
+  text-decoration: none;
+}
+
+/* 页面整体往下挪，避免被 fixed nav 遮住 */
+main.main-content {
+  padding-top: 5.2rem;
+}
+
+/* =========================
+   Full-width hero banner
+   ========================= */
+
+.hero-banner {
+  position: relative;
+  width: 100%;
+  height: 460px;
+  margin: 0 0 2rem 0;
+  border-radius: 0; /* 全宽图一般不需要圆角 */
+  overflow: hidden;
+  background-image: url("{{ site.baseurl }}/assets/images/UTK.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+/* 半透明遮罩，让白字更清晰 */
+.hero-banner::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.42);
+}
+
+.hero-inner {
+  position: relative;
+  height: 100%;
+  display: grid;
+  place-items: center;
+  text-align: center;
+  padding: 0 1rem;
+}
+
+.hero-title {
+  color: #fff;
+  font-size: 4rem;
+  font-weight: 900;
+  letter-spacing: 0.2px;
+  margin: 0;
+}
+
+.hero-subtitle {
+  color: rgba(255,255,255,0.95);
+  font-size: 1.6rem;
+  margin-top: 0.75rem;
+  font-weight: 600;
+}
+
+.hero-subsubtitle {
+  color: rgba(255,255,255,0.90);
+  font-size: 1.1rem;
+  margin-top: 0.4rem;
+}
+
+@media (max-width: 900px) {
+  .hero-banner { height: 360px; }
+  .hero-title { font-size: 2.6rem; }
+  .hero-subtitle { font-size: 1.2rem; }
+}
+
+/* 让正文更像截图那种“中间窄版” */
+.main-content {
+  max-width: 980px;
+  margin: 0 auto;
+}
