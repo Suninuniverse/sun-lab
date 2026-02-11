@@ -26,7 +26,7 @@ permalink: /
      Intro Section
      ========================= -->
 
-<p style="text-align:center; font-size:1.15rem; max-width:850px; margin: 0 auto 2rem auto;">
+<p style="text-align:center; font-size:1.5rem; max-width:950 px; margin: 0 auto 2rem auto;">
 We develop mass spectrometry–based structural proteomics and multi-omics technologies
 to investigate protein structure, membrane protein biology, and disease-related
 molecular mechanisms.
