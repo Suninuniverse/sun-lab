@@ -1,14 +1,14 @@
 title: "Sun Lab"
-description: "High-throughput structual proteomics • Mass spectrometry • AI for biology"
-theme: jekyll-theme-cayman 
+description: "High-throughput structural proteomics • Mass spectrometry • AI for biology"
+theme: jekyll-theme-cayman
 
-# GitHub Pages 推荐：不要写 url/baseurl（或按你的仓库名写）
-url: ""/sun-lab""
-baseurl: "https://suninuniverse.github.io"
+# 你的 GitHub Pages 域名（不要带仓库名）
+url: "https://suninuniverse.github.io"
+# 你的仓库名（必须以 / 开头）
+baseurl: "/sun-lab"
 
-# 顶部导航栏顺序（对齐 yu-research）
+# 顶部导航栏（首页 index.md 不需要放进来）
 header_pages:
-  - index.md
   - research.md
   - people.md
   - instruments.md
@@ -16,8 +16,6 @@ header_pages:
   - lab-info.md
   - join-us.md
 
-# 可选：让 markdown 更舒服
 markdown: kramdown
 kramdown:
   input: GFM
-
