@@ -1,1 +1,23 @@
+title: "Your Lab"
+description: "High-throughput multi-omics • Mass spectrometry • AI for biology"
+theme: minima
+
+# GitHub Pages 推荐：不要写 url/baseurl（或按你的仓库名写）
+url: ""
+baseurl: ""
+
+# 顶部导航栏顺序（对齐 yu-research）
+header_pages:
+  - index.md
+  - research.md
+  - people.md
+  - instruments.md
+  - publications.md
+  - lab-info.md
+  - join-us.md
+
+# 可选：让 markdown 更舒服
+markdown: kramdown
+kramdown:
+  input: GFM
 
