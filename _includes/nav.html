@@ -1,5 +1,10 @@
 <nav class="topnav">
-  <a class="brand" href="{{ site.baseurl }}/">Sun Lab</a>
+  <a class="brand" href="{{ site.baseurl }}/">
+    <!-- 可选：放 logo -->
+    <!-- <img src="{{ site.baseurl }}/assets/images/logo.png" class="logo" alt="Sun Lab logo"> -->
+    <span>Sun Lab</span>
+  </a>
+
   <div class="links">
     {% for p in site.header_pages %}
       {% assign page_obj = site.pages | where: "path", p | first %}
