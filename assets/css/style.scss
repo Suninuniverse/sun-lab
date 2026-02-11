@@ -52,4 +52,136 @@ a:hover { text-decoration: underline; }
 /* Optional: If you also want to reduce header title size */
 .project-name {
   font-size: 2.2rem !important;
-  font
+  font-weight: 800 !important;
+  letter-spacing: 0.2px;
+}
+
+/* ---- Top navigation ---- */
+.topnav {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.85rem 1.25rem;
+  background: rgba(255, 255, 255, 0.92);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--border);
+}
+
+.topnav .brand {
+  font-weight: 900;
+  color: #0b1220;
+  text-decoration: none;
+}
+
+.topnav .links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+}
+
+.topnav .links a {
+  padding: 0.35rem 0.6rem;
+  border-radius: 10px;
+  color: rgba(17, 24, 39, 0.86);
+  opacity: 1;
+}
+
+.topnav .links a:hover {
+  text-decoration: none;
+  background: rgba(0, 0, 0, 0.04);
+}
+
+/* highlight current page link if you add class="active" in nav later */
+.topnav .links a.active {
+  background: rgba(0, 0, 0, 0.06);
+  font-weight: 700;
+}
+
+@media (max-width: 820px) {
+  .topnav { align-items: flex-start; }
+  .topnav .links { width: 100%; }
+}
+
+/* ---- Hero ---- */
+.hero {
+  margin: 1.2rem 0 1.6rem;
+  padding: 1.25rem 1.25rem;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: var(--bg2);
+}
+
+.hero .sub {
+  margin-top: 0.55rem;
+  color: var(--muted);
+  opacity: 1;
+  font-size: 1rem;
+}
+
+/* ---- Badges ---- */
+.badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.9rem;
+}
+
+.badge {
+  display: inline-block;
+  padding: 0.3rem 0.65rem;
+  border-radius: 999px;
+  border: 1px solid rgba(0,0,0,0.10);
+  background: rgba(255,255,255,0.85);
+  font-size: 0.9rem;
+  color: rgba(17, 24, 39, 0.82);
+}
+
+/* ---- Grids & cards ---- */
+.grid { display: grid; gap: 1rem; }
+.grid.two { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.grid.three { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+
+@media (max-width: 820px) {
+  .grid.two, .grid.three { grid-template-columns: 1fr; }
+}
+
+.card {
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 1.05rem 1.1rem;
+  background: var(--bg);
+  transition: transform 120ms ease, box-shadow 120ms ease;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.08);
+}
+
+.meta {
+  color: var(--muted);
+  opacity: 1;
+  font-size: 0.95rem;
+  margin-top: 0.35rem;
+}
+
+.small {
+  font-size: 0.96rem;
+  color: var(--muted);
+  opacity: 1;
+}
+
+/* ---- Lists look nicer inside cards/pages ---- */
+.main-content ul {
+  padding-left: 1.2rem;
+}
+
+.main-content hr {
+  border: 0;
+  border-top: 1px solid rgba(0,0,0,0.08);
+  margin: 1.6rem 0;
+}
