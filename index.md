@@ -6,16 +6,16 @@ permalink: /
 
 <div class="hero">
   <h1 style="margin:0;">The Sun Lab</h1>
-  <div class="sub"><b>Department of Biomedical Sciences, University of Somewhere</b></div>
+  <div class="sub"><b>Department of Biomedical Sciences, University of Tennessee</b></div>
   <div class="sub">
-    The Sun Lab develops high-throughput mass spectrometry–based multi-omics technologies and computational workflows to study cellular state transitions, drug mechanisms, and disease-associated molecular remodeling.
+    We develop mass spectrometry–based structural proteomics and multi-omics technologies to investigate protein structure, membrane protein biology, and disease-related molecular mechanisms.
   </div>
 
   <div class="badges">
     <span class="badge">Structural Proteomics</span>
+    <span class="badge">FPOP</span>
+    <span class="badge">Membrane Proteins</span>
     <span class="badge">Mass Spectrometry</span>
-    <span class="badge">Multi-omics</span>
-    <span class="badge">AI for Biology</span>
   </div>
 </div>
 
@@ -24,35 +24,23 @@ permalink: /
 <div class="grid two">
 
   <div class="card">
-    <b>High-throughput direct-infusion multi-omics enables rapid drug mechanism profiling</b>
-    <div class="meta"><i>Nature Methods</i>, 2025</div>
-    <div class="small">Introduced a scalable direct-infusion MS workflow enabling rapid, end-to-end multi-omics analysis across hundreds of perturbations.</div>
-    <div class="meta"><a href="https://doi.org/10.1038/s41592-025-00001-x">DOI</a></div>
+    <b>Fast Photochemical Oxidation of Proteins (FPOP)</b>
+    <div class="meta">Advanced hydroxyl radical footprinting for structural analysis.</div>
   </div>
 
   <div class="card">
-    <b>Deep proteomic remodeling reveals state-specific metabolic reprogramming</b>
-    <div class="meta"><i>Cell Systems</i>, 2024</div>
-    <div class="small">Quantitative proteomics uncovered coordinated metabolic pathway rewiring across distinct cellular states.</div>
-    <div class="meta"><a href="https://doi.org/10.1016/j.cels.2024.01.001">DOI</a></div>
+    <b>Membrane Protein Structural Biology</b>
+    <div class="meta">Novel footprinting strategies for challenging membrane systems.</div>
   </div>
 
   <div class="card">
-    <b>Integrative proteomics and metabolomics identify drug-induced pathway convergence</b>
-    <div class="meta"><i>Molecular &amp; Cellular Proteomics</i>, 2023</div>
-    <div class="small">Multi-omics integration revealed shared pathway-level responses across chemically distinct compounds.</div>
-    <div class="meta"><a href="https://doi.org/10.1016/j.mcpro.2023.100500">DOI</a></div>
+    <b>Protein Therapeutics & Drug Discovery</b>
+    <div class="meta">Interface mapping and epitope characterization.</div>
   </div>
 
   <div class="card">
-    <b>AI-assisted analysis accelerates large-scale perturbation studies</b>
-    <div class="meta"><i>Preprint</i>, 2026</div>
-    <div class="small">Automated QC, feature annotation, and report generation for high-throughput multi-omics screening.</div>
-    <div class="meta"><a href="#">Link</a></div>
+    <b>Quantitative Multi-omics Integration</b>
+    <div class="meta">Linking structural proteomics with systems-level analysis.</div>
   </div>
 
 </div>
-
-<h2>News</h2>
-- <b>2026-02</b>: Website launched 🎉  
-- <b>2026-01</b>: New preprint released on multi-omics drug screening
