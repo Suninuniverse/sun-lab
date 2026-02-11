@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Lab Info
 permalink: /lab-info/
 ---
@@ -7,14 +7,15 @@ permalink: /lab-info/
 # Lab Info
 
 ## Location
-Building, Room  
-University  
-City, State, ZIP
+Mossman 506,
+1311 Cumberland Ave, 
+Knoxville, TN 37916
 
 ## Contact
-Email: yourlab@university.edu
+Email: jsun41@utk.edu
 
-## Resources (optional)
+## Resources 
 - Internal protocols
 - Lab wiki
 - Safety / onboarding
+
