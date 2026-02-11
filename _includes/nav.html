@@ -1,0 +1,11 @@
+<nav class="topnav">
+  <a class="brand" href="{{ site.baseurl }}/">Sun Lab</a>
+  <div class="links">
+    {% for p in site.header_pages %}
+      {% assign page_obj = site.pages | where: "path", p | first %}
+      {% if page_obj %}
+        <a href="{{ site.baseurl }}{{ page_obj.url }}">{{ page_obj.title }}</a>
+      {% endif %}
+    {% endfor %}
+  </div>
+</nav>
