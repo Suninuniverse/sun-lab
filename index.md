@@ -39,58 +39,61 @@ molecular mechanisms.
 
 <div class="grid two">
 
+  <!-- Highlight 1 (2024 - Latest) -->
   <div class="card">
     <div class="card-media">
-      <img src="{{ site.baseurl }}/assets/images/highlight-1.jpg" alt="Mass spectrometry imaging">
+      <img src="{{ site.baseurl }}/assets/images/angew-incell.png" alt="In-cell FPOP">
     </div>
-    <div class="card-title">
-      <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202103874" target="_blank" rel="noopener">
-        Mass Spectrometry Imaging Reveals In Situ Behaviors of Multiple Components in Aerosol Particles
-      </a>
-    </div>
-    <div class="meta">Mass Spectrometry Imaging</div>
-    <div class="card-link">
-      <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202103874" target="_blank" rel="noopener">
-        Read the paper →
-      </a>
-    </div>
-  </div>
 
-  <div class="card">
-    <div class="card-media">
-      <img src="{{ site.baseurl }}/assets/images/highlight-2.jpg" alt="In-cell FPOP membrane proteins">
-    </div>
     <div class="card-title">
       <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202424779" target="_blank" rel="noopener">
         In-Cell Fast Photochemical Oxidation Interrogates the Native Structure of Integral Membrane Proteins
       </a>
     </div>
-    <div class="meta">In-cell FPOP • Membrane Proteins</div>
-    <div class="card-link">
-      <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202424779" target="_blank" rel="noopener">
-        Read the paper →
-      </a>
+
+    <div class="meta">
+      <b>2024</b> · Angewandte Chemie International Edition
     </div>
   </div>
 
+
+  <!-- Highlight 2 (2021 - Nature Communications) -->
   <div class="card">
     <div class="card-media">
-      <img src="{{ site.baseurl }}/assets/images/highlight-3.jpg" alt="Nanoparticles and photochemistry footprinting">
+      <img src="{{ site.baseurl }}/assets/images/nc-nano.png" alt="Nanoparticle footprinting">
     </div>
+
     <div class="card-title">
       <a href="https://www.nature.com/articles/s41467-021-27588-8" target="_blank" rel="noopener">
-        Nanoparticles and photochemistry for native-like transmembrane protein footprinting
+        Nanoparticles and Photochemistry for Native-like Transmembrane Protein Footprinting
       </a>
     </div>
-    <div class="meta">Nanoparticles • Photochemistry • Footprinting</div>
-    <div class="card-link">
-      <a href="https://www.nature.com/articles/s41467-021-27588-8" target="_blank" rel="noopener">
-        Read the paper →
+
+    <div class="meta">
+      <b>2021</b> · Nature Communications
+    </div>
+  </div>
+
+
+  <!-- Highlight 3 (2021 - Angew MSI) -->
+  <div class="card">
+    <div class="card-media">
+      <img src="{{ site.baseurl }}/assets/images/angew-msi.png" alt="Mass spectrometry imaging">
+    </div>
+
+    <div class="card-title">
+      <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202103874" target="_blank" rel="noopener">
+        Mass Spectrometry Imaging Reveals In Situ Behaviors of Multiple Components in Aerosol Particles
       </a>
+    </div>
+
+    <div class="meta">
+      <b>2021</b> · Angewandte Chemie International Edition
     </div>
   </div>
 
 </div>
+
 
 
 
