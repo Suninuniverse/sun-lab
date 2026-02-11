@@ -7,9 +7,9 @@ permalink: /lab-info/
 # Lab Info
 
 ## Location
-Mossman 506,
-1311 Cumberland Ave, 
-Knoxville, TN 37916
+1311 Cumberland Avenue
+309 Ken and Blaire Mossman Bldg.
+Knoxville TN 37996-1937
 
 ## Contact
 Email: jsun41@utk.edu
