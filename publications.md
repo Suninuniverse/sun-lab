@@ -6,36 +6,19 @@ permalink: /publications/
 
 # Publications
 
-<div class="card">
-  <b>Full publication list available on:</b><br>
-  <a href="https://scholar.google.com/citations?user=c0qOb1IAAAAJ&hl=zh-CN" target="_blank">
-    Google Scholar Profile
-  </a>
-</div>
+For a complete and updated list of publications, please visit:
 
-<h2>2026</h2>
+👉 [Google Scholar Profile](https://scholar.google.com/citations?user=c0qOb1IAAAAJ)
 
-<div class="card">
-  <b>Author1, Author2.</b><br>
-  <b>Title of the Paper</b><br>
-  <i>Journal</i> (2026)<br>
-  <a href="https://doi.org/xxxxx">DOI</a>
-</div>
+---
 
-<h2>2025</h2>
+## Selected Publications
 
-<div class="card">
-  <b>Author1, Author2.</b><br>
-  <b>Title of the Paper</b><br>
-  <i>Journal</i> (2025)<br>
-  <a href="https://doi.org/xxxxx">DOI</a>
-</div>
+### 2026
+- Author1, Author2. **Title of the Paper.** *Journal* (2026). DOI
 
-<h2>Preprints</h2>
+### 2025
+- Author1, Author2. **Title of the Paper.** *Journal* (2025). DOI
 
-<div class="card">
-  <b>Author1, Author2.</b><br>
-  <b>Title of the Preprint</b><br>
-  <i>bioRxiv</i> (2025)<br>
-  <a href="https://xxxxx">Link</a>
-</div>
+### Preprints
+- Author1, Author2. **Title of the Preprint.** *bioRxiv* (2025).
