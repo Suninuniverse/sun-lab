@@ -344,3 +344,44 @@ main.main-content {
 @media (max-width: 820px) {
   .pi-card { grid-template-columns: 1fr; }
 }
+
+/* =========================
+   Figures / Images
+   - 用于 Instruments/Research 等页面插图
+   ========================= */
+
+.figure {
+  margin: 1.6rem auto;
+  max-width: 980px; /* 图的最大宽度（可改大：1200px） */
+}
+
+.figure img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 16px;
+  border: 1px solid rgba(0,0,0,0.08);
+  box-shadow: 0 10px 28px rgba(0,0,0,0.06);
+}
+
+.figcaption {
+  margin-top: 0.6rem;
+  text-align: center;
+  color: rgba(17, 24, 39, 0.70);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+/* 两张图并排（大屏幕并排，小屏幕自动上下） */
+.figure-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.2rem;
+  margin: 1.6rem 0;
+}
+
+@media (max-width: 900px) {
+  .figure-grid {
+    grid-template-columns: 1fr;
+  }
+}
