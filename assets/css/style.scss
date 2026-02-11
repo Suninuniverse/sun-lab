@@ -69,3 +69,18 @@
 }
 
 .small { font-size: 0.95rem; opacity: 0.9; }
+
+/* ===== Remove GitHub header ===== */
+
+.project-tagline {
+  display: none;
+}
+
+.btn {
+  display: none !important;
+}
+
+.page-header {
+  padding-bottom: 2rem;
+}
+
