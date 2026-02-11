@@ -5,7 +5,7 @@ title: Home
 permalink: /
 ---
 
-# The Your Lab
+# The Sun Lab
 
 **Department of Biomedical Sciences, University of Somewhere**
 
