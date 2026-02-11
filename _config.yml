@@ -1,9 +1,9 @@
 title: "Sun Lab"
 description: "High-throughput structual proteomics • Mass spectrometry • AI for biology"
-theme: minima
+theme: jekyll-theme-cayman 
 
 # GitHub Pages 推荐：不要写 url/baseurl（或按你的仓库名写）
-url: ""
+url: ""/sun-lab""
 baseurl: ""
 
 # 顶部导航栏顺序（对齐 yu-research）
