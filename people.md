@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 ---
 
-# People
+# Team
 
 <div class="pi-card">
   <div class="pi-photo">
