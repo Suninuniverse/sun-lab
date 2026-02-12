@@ -39,10 +39,27 @@ molecular mechanisms.
 
 <div class="grid two">
 
-  <!-- Highlight 1 (2024 - Latest) -->
+  <!-- Highlight 1 (2025 - Latest) -->
   <div class="card">
     <div class="card-media">
-      <img src="{{ site.baseurl }}/assets/images/angew-incell.png" alt="In-cell FPOP">
+      <img src="{{ site.baseurl }}/assets/images/Nature.png" alt="membrane protein" loading="lazy">
+    </div>
+
+    <div class="card-title">
+      <a href="https://www.nature.com/articles/s41586-025-08648-1" target="_blank" rel="noopener">
+        Molecular basis of vitamin-K-driven γ-carboxylation at the membrane interface
+      </a>
+    </div>
+
+    <div class="meta">
+      <b>2025</b> · Nature
+    </div>
+  </div>
+
+  <!-- Highlight 2 (2024 - Angew) -->
+  <div class="card">
+    <div class="card-media">
+      <img src="{{ site.baseurl }}/assets/images/angew-incell.png" alt="In-cell FPOP" loading="lazy">
     </div>
 
     <div class="card-title">
@@ -52,15 +69,14 @@ molecular mechanisms.
     </div>
 
     <div class="meta">
-      <b>2024</b> · Angewandte Chemie International Edition
+      <b>2025</b> · Angewandte Chemie International Edition
     </div>
   </div>
 
-
-  <!-- Highlight 2 (2021 - Nature Communications) -->
+  <!-- Highlight 3 (2021 - Nature Communications) -->
   <div class="card">
     <div class="card-media">
-      <img src="{{ site.baseurl }}/assets/images/nc-nano.png" alt="Nanoparticle footprinting">
+      <img src="{{ site.baseurl }}/assets/images/nc-nano.png" alt="Nanoparticle footprinting" loading="lazy">
     </div>
 
     <div class="card-title">
@@ -74,11 +90,10 @@ molecular mechanisms.
     </div>
   </div>
 
-
-  <!-- Highlight 3 (2021 - Angew MSI) -->
+  <!-- Highlight 4 (2021 - Angew MSI) -->
   <div class="card">
     <div class="card-media">
-      <img src="{{ site.baseurl }}/assets/images/angew-msi.png" alt="Mass spectrometry imaging">
+      <img src="{{ site.baseurl }}/assets/images/angew-msi.png" alt="Mass spectrometry imaging" loading="lazy">
     </div>
 
     <div class="card-title">
