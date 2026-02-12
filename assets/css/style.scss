@@ -432,18 +432,22 @@ main.main-content {
 /* =========================
    Lab News (Scrollable)
    ========================= */
+/* Lab News 外层：全宽 */
 .news-wrap{
-  max-width: 1200px;
-  margin: 0 auto 3rem auto;
-  padding: 0 1rem;
+  width: 100%;
+  margin: 0 0 3rem 0;
+  padding: 0;            /* 外层不做左右 padding */
 }
 
+/* 内层：和 main-content 一样的 1200 宽 + 居中 */
 .news-box{
-  max-height: 700px;          /* 控制滚动区域高度：想更高就改这里 */
-  overflow-y: auto;           /* 纵向滚动 */
+  max-width: 1200px;
+  margin: 0 auto;
+  max-height: 700px;
+  overflow-y: auto;
   border: 2px solid #e6e6e6;
   border-radius: 16px;
-  background: #fff!important;
+  background: #fff !important;
   padding: 0.75rem 1rem;
   box-shadow: 0 6px 20px rgba(0,0,0,0.1);
 }
