@@ -33,7 +33,7 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
 
   /* 可选：全站字号开关（默认 16px）*/
-  font-size: 20px;
+  font-size: 22px;
   
 }
 
@@ -53,9 +53,9 @@ a:hover { text-decoration: underline; }
 }
 
 /* 正文标题字号（全站通用） */
-.main-content h1 { font-size: 3.5rem; margin-top: 1.6rem; color: #fff!important; font-weight: 800; }
-.main-content h2 { font-size: 1.8rem; margin-top: 1.75rem; color: #111827!important; font-weight: 800;}
-.main-content h3 { font-size: 1.5rem; margin-top: 1.4rem; color: #111827!important; font-weight: 800; }
+.main-content h1 { font-size: 2.5rem; margin-top: 1.6rem; color: #111827!important; font-weight: 600; }
+.main-content h2 { font-size: 1.8rem; margin-top: 1.75rem; color: #111827!important; font-weight: 600;}
+.main-content h3 { font-size: 1.5rem; margin-top: 1.4rem; color: #111827!important; font-weight: 600; }
 
 /* 段落/列表的文字颜色、行距（全站通用） */
 .main-content p,
@@ -179,7 +179,7 @@ main.main-content {
 .hero-banner {
   position: relative;
   width: 100%;
-  height: 460px;       /* ✅ hero 高度 */
+  height: 500px;       /* ✅ hero 高度 */
   margin: 0 0 2rem 0;
   border-radius: 0;
   overflow: hidden;
@@ -212,7 +212,7 @@ main.main-content {
 
 /* hero 标题（The Sun Lab） */
 .hero-title {
-  color: #fff !important; /* ✅ 改这里控制颜色*/
+  color: #fff!important; /* ✅ 改这里控制颜色*/
   font-size: 5.5rem;  /* ✅ 改这里控制大标题字号 */
   font-weight: 1400;
   letter-spacing: 0.2px;
