@@ -109,6 +109,39 @@ molecular mechanisms.
 
 </div>
 
+<!-- =========================
+     Lab News (Scrollable)
+     ========================= -->
+<h2 style="text-align:center; margin-top:3rem;">Lab News</h2>
+
+<div class="news-wrap">
+  <div class="news-box">
+
+    <div class="news-item">
+      <div class="news-date">2026-02</div>
+      <div class="news-text">
+        Sun Lab website launched 🎉
+      </div>
+    </div>
+
+    <div class="news-item">
+      <div class="news-date">2025-01</div>
+      <div class="news-text">
+        Welcome new lab members!
+      </div>
+    </div>
+
+    <div class="news-item">
+      <div class="news-date">2024-8</div>
+      <div class="news-text">
+        Sun Lab Opens Its Doors at UTK.
+      </div>
+    </div>
+
+    <!-- 继续往下加 news-item ... -->
+
+  </div>
+</div>
 
 
 
