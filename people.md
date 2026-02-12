@@ -14,9 +14,9 @@ permalink: /people/
   <div class="pi-info">
     <h2 style="margin-top:0;">Jie Sun, PhD</h2>
 
-    Assistant Professor  
-    Department of Biochemistry & Cellular and Molecular Biology  
-    University of Tennessee, Knoxville  
+    <div>Assistant Professor</div>
+    <div>Department of Biochemistry & Cellular and Molecular Biology</div>
+    <div>University of Tennessee, Knoxville</div>
 
     <p>
     Email: <a href="mailto:jsun41@utk.edu">jsun41@utk.edu</a>
