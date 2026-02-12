@@ -6,19 +6,24 @@ permalink: /publications/
 
 # Publications
 
-For a complete and updated list of publications, please visit:
+<div class="badges">
+  <a class="badge" href="https://scholar.google.com/citations?user=c0qOb1IAAAAJ&hl=zh-CN" target="_blank" rel="noopener">Google Scholar</a>
+  <a class="badge" href="https://orcid.org/0000-0001-8775-5032" target="_blank" rel="noopener">ORCID</a>
+</div>
 
-👉 [Google Scholar Profile](https://scholar.google.com/citations?user=c0qOb1IAAAAJ)
+<p class="small" style="margin-top:0.9rem;">
+For the most complete and up-to-date publication list, please see the Google Scholar profile above.
+</p>
 
 ---
 
 ## Selected Publications
 
 ### 2026
-- Author1, Author2. **Title of the Paper.** *Journal* (2026). DOI
+- Author1, Author2. **Title of the Paper.** *Journal* (2026). DOI: [link](https://doi.org/xxxxx)
 
 ### 2025
-- Author1, Author2. **Title of the Paper.** *Journal* (2025). DOI
+- Author1, Author2. **Title of the Paper.** *Journal* (2025). DOI: [link](https://doi.org/xxxxx)
 
 ### Preprints
-- Author1, Author2. **Title of the Preprint.** *bioRxiv* (2025).
+- Author1, Author2. **Title of the Preprint.** *bioRxiv* (2025). [link](https://xxxxx)
