@@ -17,8 +17,13 @@ permalink: /instruments/
 </div>
 
 ## Mass Spectrometry
-- TIMS-TOF 
-- LC systems (if any)
-- FAIMS / ion mobility (if any)
+- timsTOF Pro 2 Mass Spectrometer
+- Trapped Ion Mobility Spectrometry (TIMS)
+- Parallel Accumulation–Serial Fragmentation (PASEF®)
+- Ultrafast MS/MS sequencing speed >120 Hz
+- 4D-Omics (m/z, intensity, retention time, ion mobility)
+- High sensitivity with deep proteome coverage
+- Accurate CCS measurement for enhanced molecular confidence
+-High robustness for large-scale, high-throughput studies 
 
 
