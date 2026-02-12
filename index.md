@@ -42,7 +42,7 @@ molecular mechanisms.
   <!-- Highlight 1 (2025 - Latest) -->
   <div class="card">
     <div class="card-media">
-      <img src="{{ site.baseurl }}/assets/images/Nature.png" alt="membrane protein" loading="lazy">
+      <img src="{{ site.baseurl }}/assets/images/nature.png" alt="membrane protein" loading="lazy">
     </div>
 
     <div class="card-title">
