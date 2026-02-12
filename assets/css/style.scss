@@ -429,3 +429,60 @@ main.main-content {
   opacity: 0.9;
 }
 
+/* =========================
+   Lab News (Scrollable)
+   ========================= */
+.news-wrap{
+  max-width: 950px;
+  margin: 0 auto 3rem auto;
+  padding: 0 1rem;
+}
+
+.news-box{
+  max-height: 260px;          /* 控制滚动区域高度：想更高就改这里 */
+  overflow-y: auto;           /* 纵向滚动 */
+  border: 1px solid #e6e6e6;
+  border-radius: 14px;
+  background: #fff;
+  padding: 0.75rem 1rem;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.06);
+}
+
+/* 每条新闻 */
+.news-item{
+  display: grid;
+  grid-template-columns: 90px 1fr;
+  gap: 12px;
+  padding: 0.75rem 0;
+  border-bottom: 1px dashed #eaeaea;
+}
+
+.news-item:last-child{
+  border-bottom: none;
+}
+
+.news-date{
+  font-weight: 700;
+  font-size: 0.95rem;
+  opacity: 0.75;
+  white-space: nowrap;
+}
+
+.news-text{
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+/* 滚动条美化（可选：只对 WebKit 浏览器生效） */
+.news-box::-webkit-scrollbar{
+  width: 10px;
+}
+.news-box::-webkit-scrollbar-thumb{
+  background: rgba(0,0,0,0.15);
+  border-radius: 999px;
+}
+.news-box::-webkit-scrollbar-track{
+  background: rgba(0,0,0,0.04);
+  border-radius: 999px;
+}
+
