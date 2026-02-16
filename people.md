@@ -39,6 +39,7 @@ permalink: /people/
 - Ph.D., Institute of Chemistry, Chinese Academy of Sciences (2014–2019)
    
 - B.S., Shandong University (2010–2014)
+
 ---
 
 ## Current members
