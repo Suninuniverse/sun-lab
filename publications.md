@@ -19,11 +19,3 @@ For the most complete and up-to-date publication list, please see the Google Sch
 
 ## Selected Publications
 
-### 2026
-- Author1, Author2. **Title of the Paper.** *Journal* (2026). DOI: [link](https://doi.org/xxxxx)
-
-### 2025
-- Author1, Author2. **Title of the Paper.** *Journal* (2025). DOI: [link](https://doi.org/xxxxx)
-
-### Preprints
-- Author1, Author2. **Title of the Preprint.** *bioRxiv* (2025). [link](https://xxxxx)
