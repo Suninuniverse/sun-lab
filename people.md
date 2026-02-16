@@ -50,28 +50,34 @@ permalink: /people/
     <div class="member-photo">
       <img src="{{ site.baseurl }}/assets/images/people/group2.jfif" alt="member" loading="lazy">
     </div>
+  </div>
 
   <div class="member-card">
     <div class="member-photo">
       <img src="{{ site.baseurl }}/assets/images/people/group3.jfif" alt="member" loading="lazy">
     </div>
+  </div>
 
   <div class="member-card">
     <div class="member-photo">
       <img src="{{ site.baseurl }}/assets/images/people/claudia.jfif" alt="member" loading="lazy">
     </div>
+  </div>
 
   <div class="member-card">
     <div class="member-photo">
       <img src="{{ site.baseurl }}/assets/images/people/claudia_poster.jfif" alt="member" loading="lazy">
     </div>
+  </div>
 
   <div class="member-card">
     <div class="member-photo">
       <img src="{{ site.baseurl }}/assets/images/people/group.jfif" alt="member" loading="lazy">
     </div>
+  </div>
 
 </div>
+
 
 
 
