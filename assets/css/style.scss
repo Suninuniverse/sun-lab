@@ -354,7 +354,7 @@ main.main-content {
 
 .figure {
   margin: 1.6rem auto;
-  max-width: 1200px; /* 图的最大宽度（可改大：1200px） */
+  max-width: 1000px; /* 图的最大宽度（可改大：1200px） */
 }
 
 .figure img {
@@ -497,8 +497,8 @@ main.main-content {
 .members-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 1.25rem;
-  margin-top: 1rem;
+  gap: 2.0rem;
+  margin-top: 1.5rem;
 }
 
 .member-card {
@@ -511,7 +511,7 @@ main.main-content {
 
 .member-photo {
   width: 100%;
-  aspect-ratio: 3 / 4;   /* 你也可以改成 1/1 做正方形头像 */
+  aspect-ratio: 4 / 6;   /* 你也可以改成 1/1 做正方形头像 */
   overflow: hidden;
   background: rgba(0,0,0,0.03);
 }
@@ -535,7 +535,7 @@ main.main-content {
 }
 
 .member-role {
-  margin-top: 0.25rem;
+  margin-top: 0.5rem;
   color: var(--muted);
   font-size: 0.98rem;
   line-height: 1.35;
@@ -546,6 +546,6 @@ main.main-content {
   .members-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
 
-@media (max-width: 560px) {
+@media (max-width: 800px) {
   .members-grid { grid-template-columns: 1fr; }
 }
