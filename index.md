@@ -27,9 +27,7 @@ permalink: /
      ========================= -->
 
 <p style="text-align:center; font-size:1.5rem; max-width:1000px; margin: 0 auto 2rem auto;">
-We develop mass spectrometry–based structural proteomics and multi-omics technologies
-to investigate protein structure, membrane protein biology, and disease-related
-molecular mechanisms.
+We develop advanced mass spectrometry–based structural proteomics platforms to investigate protein structure and dynamics in native environments. We focus on: (1) integral membrane proteins embedded in their physiological lipid contexts, and (2) intrinsically disordered proteins such as Tau. By integrating chemical footprinting, in situ labeling strategies, and multi-modal MS analysis, we aim to decode the high-order structures of those sensitive proteins and facilitate the understanding of disease mechanisms and drug development.
 </p>
 
 <!-- =========================
