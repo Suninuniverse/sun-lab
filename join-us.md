@@ -6,7 +6,13 @@ permalink: /join-us/
 
 # Join Us
 
-We are always looking for motivated students and postdocs interested in mass spectrometry, imaging mass spectrometry, proteomics and Biology.
+## We are hiring! 
+
+We are always seeking motivated postdoctoral researchers with a strong background in mass spectrometry imaging or proteomics.
+
+We also welcome Ph.D. students who are passionate about mass spectrometry and protein structural proteomics. 
+Prior experience in mass spectrometry is not required -we will train you. 
+Strong curiosity and dedication are essential.
 
 ## Open positions
 - Postdoctoral fellow
@@ -14,8 +20,5 @@ We are always looking for motivated students and postdocs interested in mass spe
 - Undergraduate students
 
 ## How to apply
-Please email:
+Please email your CV to jsun41@utk.edu
 
-1) CV  
-2) brief statement of interests  
-3) 1–2 representative papers / GitHub / preprint
