@@ -96,22 +96,28 @@ We develop advanced mass spectrometry–based structural proteomics platforms to
 <h2 style="text-align:center; margin-top:3rem;">Lab News</h2>
 
 <div class="news-wrap">
-  <div class="news-box">
-
+  <div class="news-box">  
     <div class="news-item">
-      <div class="news-date">2026-02</div>
+      <div class="news-date">2025-05</div>
       <div class="news-text">
-        Sun Lab website launched 🎉
+        TimsTof Pro2 installed!  🎉
       </div>
     </div>
-
+       
     <div class="news-item">
-      <div class="news-date">2025-01</div>
+      <div class="news-date">2025-1</div>
       <div class="news-text">
-        Welcome new lab members!
+        Welcome our first rotation student! 
       </div>
     </div>
-
+    
+    <div class="news-item">
+      <div class="news-date">2024-12</div>
+      <div class="news-text">
+        Welcome new lab members! 
+      </div>
+    </div>
+    
     <div class="news-item">
       <div class="news-date">2024-8</div>
       <div class="news-text">
