@@ -47,53 +47,28 @@ permalink: /people/
 
   <div class="member-card">
     <div class="member-photo">
-      <img src="{{ site.baseurl }}/assets/images/people/group2.jfif" alt="Jocelyn" loading="lazy">
+      <img src="{{ site.baseurl }}/assets/images/people/group2.jfif" alt="member" loading="lazy">
     </div>
-    <div class="member-info">
-      <div class="member-name">Jocelyn</div>
-      <div class="member-role">Undergraduate Research Assistant</div>
-    </div>
-  </div>
 
   <div class="member-card">
     <div class="member-photo">
-      <img src="{{ site.baseurl }}/assets/images/people/group3.jfif" alt="Claudia" loading="lazy">
+      <img src="{{ site.baseurl }}/assets/images/people/group3.jfif" alt="member" loading="lazy">
     </div>
-    <div class="member-info">
-      <div class="member-name">Claudia</div>
-      <div class="member-role">Graduate Student (Rotation)</div>
-    </div>
-  </div>
 
   <div class="member-card">
     <div class="member-photo">
-      <img src="{{ site.baseurl }}/assets/images/people/claudia.jfif" alt="Claudia" loading="lazy">
+      <img src="{{ site.baseurl }}/assets/images/people/claudia.jfif" alt="member" loading="lazy">
     </div>
-    <div class="member-info">
-      <div class="member-name">Claudia</div>
-      <div class="member-role">Graduate Student (Rotation)</div>
-    </div>
-  </div>
 
   <div class="member-card">
     <div class="member-photo">
-      <img src="{{ site.baseurl }}/assets/images/people/claudia_poster.jfif" alt="Claudia" loading="lazy">
+      <img src="{{ site.baseurl }}/assets/images/people/claudia_poster.jfif" alt="member" loading="lazy">
     </div>
-    <div class="member-info">
-      <div class="member-name">Claudia</div>
-      <div class="member-role">Graduate Student (Rotation)</div>
-    </div>
-  </div>
 
   <div class="member-card">
     <div class="member-photo">
-      <img src="{{ site.baseurl }}/assets/images/people/group.jfif" alt="Rory" loading="lazy">
+      <img src="{{ site.baseurl }}/assets/images/people/group.jfif" alt="member" loading="lazy">
     </div>
-    <div class="member-info">
-      <div class="member-name">Rory</div>
-      <div class="member-role">Undergraduate Research Assistant</div>
-    </div>
-  </div>
 
 </div>
 
