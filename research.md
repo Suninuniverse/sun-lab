@@ -6,18 +6,16 @@ permalink: /research/
 
 # Research
 
-## Structural Proteomics
+## Membrane Protein Structural Proteomics
 
-Our lab advances mass spectrometry–based structural proteomics with emphasis on footprinting, crosslinking, and hydrogen-deuterium exchange (HDX). These approaches enable us to map protein interfaces, solvent accessibility, and structural dynamics.
+We develop native-state structural proteomics strategies to investigate integral membrane proteins within their physiological lipid environments. Our work focuses on transmembrane domains, which remain challenging for conventional structural biology methods. By applying footprinting in membrane mimetics and in situ systems, we seek to elucidate membrane protein structure, dynamics, and disease-associated conformational changes.
 
-## Membrane Protein Biology
+## Intrinsically Disordered Proteins
 
-We focus on membrane proteins, which present unique structural challenges. Our work develops innovative footprinting strategies in membrane mimics and native-like environments to better understand disease-related mechanisms.
+We investigate intrinsically disordered proteins (IDPs), with particular emphasis on Tau, to understand how conformational ensembles regulate function and pathology. Unlike folded proteins, IDPs exist as dynamic structural populations that are highly sensitive to environmental cues and binding partners. By integrating footprinting and multi-modal MS approaches, we aim to characterize structural heterogeneity, aggregation-prone regions, and disease-associated conformational shifts relevant to neurodegenerative disorders.
 
-## Fast Photochemical Oxidation of Proteins (FPOP)
+## Footprinting in Drug Development
 
-FPOP generates hydroxyl radicals using a pulsed 248 nm laser to selectively oxidize solvent-exposed residues. This technique allows mapping of protein-protein interactions and supports therapeutic development and epitope mapping.
+We apply chemical footprinting strategies to map ligand binding, conformational changes, and protein–protein interactions in native and near-physiological systems. These approaches enable residue-level resolution of drug-induced structural perturbations, including transient and dynamic states often inaccessible to traditional structural methods. By integrating footprinting with quantitative MS workflows, we aim to accelerate mechanistic drug discovery and facilitate rational therapeutic design.
 
-## Applications in Drug Discovery
 
-Our methods are increasingly applied to characterize protein therapeutics and map interaction sites in complex biological systems.
