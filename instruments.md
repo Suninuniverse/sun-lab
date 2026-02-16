@@ -12,7 +12,7 @@ permalink: /instruments/
 </div>
 
 <div class="figure">
-  <img src="{{ site.baseurl }}/assets/images/tims_inner.png" alt="TIMS inner view">
+  <img src="{{ site.baseurl }}/assets/images/timstof.png" alt="TIMS inner view">
   <div class="figcaption"><b>TIMS inner</b> — inner structure.</div>
 </div>
 
