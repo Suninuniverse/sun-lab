@@ -35,18 +35,16 @@ permalink: /people/
 ### Education & Training
 
 - Postdoctoral Fellow, Washington University in St. Louis (2019–2024)  
-  Mentor: Prof. Michael Gross  
 
-- Ph.D., Chinese Academy of Sciences (2014–2019)  
-  Advisor: Prof. Zongxiu Nie  
-
+- Ph.D., Institute of Chemistry, Chinese Academy of Sciences (2014–2019)
+   
+- B.S., Shandong University (2010–2014)
 ---
 
-## Postdoctoral Fellows
-- Name — Research focus
+## Current members
 
-## Graduate Students
-- Name — Research focus
 
-## Alumni
-- Name — Current position
+
+
+
+
