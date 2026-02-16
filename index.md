@@ -71,23 +71,6 @@ We develop advanced mass spectrometry–based structural proteomics platforms to
     </div>
   </div>
 
-  <!-- Highlight 3 (2021 - Nature Communications) -->
-  <div class="card">
-    <div class="card-media">
-      <img src="{{ site.baseurl }}/assets/images/nc-nano.png" alt="Nanoparticle footprinting" loading="lazy">
-    </div>
-
-    <div class="card-title">
-      <a href="https://www.nature.com/articles/s41467-021-27588-8" target="_blank" rel="noopener">
-        Nanoparticles and Photochemistry for Native-like Transmembrane Protein Footprinting
-      </a>
-    </div>
-
-    <div class="meta">
-      <b>2021</b> · Nature Communications
-    </div>
-  </div>
-
   <!-- Highlight 4 (2021 - Angew MSI) -->
   <div class="card">
     <div class="card-media">
