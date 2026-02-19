@@ -2,8 +2,8 @@ title: "Sun Lab"
 description: "High-throughput structural proteomics • Mass spectrometry • AI for biology"
 theme: jekyll-theme-cayman
 
-url: "https://suninuniverse.github.io"
-baseurl: "/sun-lab"
+url: "https://www.jiesunlab.com"
+baseurl: ""
 
 header_pages:
   - research.md
