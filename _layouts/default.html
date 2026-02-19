@@ -3,10 +3,33 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>{{ page.title }} | {{ site.title }}</title>
-    <link rel="icon" href="{{ site.baseurl }}/assets/images/Sunlab.png">
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+
+    <!-- Title -->
+    <title>
+      {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}
+      {% if page.title and site.title %} | {{ site.title }}{% endif %}
+    </title>
+
+    <!-- Description (for Google snippet) -->
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% elsif site.description %}{{ site.description }}{% else %}Mass spectrometry–based structural proteomics at the University of Tennessee, Knoxville.{% endif %}">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+
+    <!-- Favicon + CSS (more robust than site.baseurl) -->
+    <link rel="icon" href="{{ '/assets/images/Sunlab.png' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+    <!-- Open Graph (nice previews when sharing) -->
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% elsif site.description %}{{ site.description }}{% else %}Mass spectrometry–based structural proteomics at UTK.{% endif %}">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
+    <meta property="og:type" content="website">
+
+    <!-- OPTIONAL: Add after you create it -->
+    <!-- <meta name="google-site-verification" content="PASTE_YOUR_CODE_HERE" /> -->
   </head>
+
   <body>
     {% include nav.html %}
     <main class="main-content">
