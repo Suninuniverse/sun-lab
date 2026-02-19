@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Home
+title: Sun Lab | MS-Based Structural Proteomics at UTK
+description: The Sun Lab at the University of Tennessee, Knoxville develops mass spectrometry–based structural proteomics platforms to study membrane proteins
 permalink: /
 ---
 
