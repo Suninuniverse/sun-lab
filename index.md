@@ -72,24 +72,7 @@ We develop advanced mass spectrometry–based structural proteomics platforms to
     </div>
   </div>
 
-  <!-- Highlight 4 (2021 - Angew MSI) -->
-  <div class="card">
-    <div class="card-media">
-      <img src="{{ site.baseurl }}/assets/images/angew-msi.png" alt="Mass spectrometry imaging" loading="lazy">
-    </div>
-
-    <div class="card-title">
-      <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202103874" target="_blank" rel="noopener">
-        Mass Spectrometry Imaging Reveals In Situ Behaviors of Multiple Components in Aerosol Particles
-      </a>
-    </div>
-
-    <div class="meta">
-      <b>2021</b> · Angewandte Chemie International Edition
-    </div>
-  </div>
-
-</div>
+ </div>
 
 <!-- =========================
      Lab News (Scrollable)
