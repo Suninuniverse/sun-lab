@@ -82,6 +82,20 @@ We develop advanced mass spectrometry–based structural proteomics platforms to
 <div class="news-wrap">
   <div class="news-box">  
     <div class="news-item">
+      <div class="news-date">2026-06</div>
+      <div class="news-text">
+        Our work on MS-based footprinting about intrinsically disordered protein Tau 2N4R was published in Analytical Chemistry! https://pubs.acs.org/doi/full/10.1021/acs.analchem.6c00046
+      </div>
+    </div>
+
+    <div class="news-item">
+      <div class="news-date">2026-06</div>
+      <div class="news-text">
+        The Sun Lab presented an oral talk at the ASMS conference in San Diego!
+      </div>
+    </div>
+   
+    <div class="news-item">
       <div class="news-date">2025-05</div>
       <div class="news-text">
         TimsTof Pro2 installed!  🎉
