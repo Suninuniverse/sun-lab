@@ -38,7 +38,24 @@ We develop advanced mass spectrometry–based structural proteomics platforms to
 
 <div class="grid two">
 
-  <!-- Highlight 1 (2025 - Latest) -->
+  <!-- Highlight 1 (2026 - Latest) -->
+  <div class="card">
+    <div class="card-media">
+      <img src="{{ site.baseurl }}/assets/images/nature.png" alt="membrane protein" loading="lazy">
+    </div>
+
+    <div class="card-title">
+      <a href="https://pubs.acs.org/doi/full/10.1021/acs.analchem.6c00046" target="_blank" rel="noopener">
+        Capturing Early Aggregation Transitions of Disordered Tau by Covalent Footprinting Mass Spectrometry
+      </a>
+    </div>
+
+    <div class="meta">
+      <b>2026</b> · Analytical Chemistry
+    </div>
+  </div>
+  
+  <!-- Highlight 2 (2025 - Nature) -->
   <div class="card">
     <div class="card-media">
       <img src="{{ site.baseurl }}/assets/images/nature.png" alt="membrane protein" loading="lazy">
@@ -55,7 +72,7 @@ We develop advanced mass spectrometry–based structural proteomics platforms to
     </div>
   </div>
 
-  <!-- Highlight 2 (2024 - Angew) -->
+  <!-- Highlight 3 (2024 - Angew) -->
   <div class="card">
     <div class="card-media">
       <img src="{{ site.baseurl }}/assets/images/angew-incell.png" alt="In-cell FPOP" loading="lazy">
