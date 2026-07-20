@@ -41,7 +41,7 @@ We develop advanced mass spectrometry–based structural proteomics platforms to
   <!-- Highlight 1 (2026 - Latest) -->
   <div class="card">
     <div class="card-media">
-      <img src="{{ site.baseurl }}/assets/images/nature.png" alt="membrane protein" loading="lazy">
+      <img src="{{ site.baseurl }}/assets/images/AC_Tau.png" alt="IDP" loading="lazy">
     </div>
 
     <div class="card-title">
