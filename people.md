@@ -42,10 +42,22 @@ permalink: /people/
 
 ---
 
-## Current members
+## Lab Photos
 
 <div class="members-grid">
 
+  <div class="member-card">
+    <div class="member-photo">
+      <img src="{{ site.baseurl }}/assets/images/people/2026Fall.jfif" alt="member" loading="lazy">
+    </div>
+  </div> 
+
+  <div class="member-card">
+    <div class="member-photo">
+      <img src="{{ site.baseurl }}/assets/images/people/2026.jfif" alt="member" loading="lazy">
+    </div>
+  </div>
+  
   <div class="member-card">
     <div class="member-photo">
       <img src="{{ site.baseurl }}/assets/images/people/group2.jfif" alt="member" loading="lazy">
