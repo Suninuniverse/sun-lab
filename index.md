@@ -99,6 +99,13 @@ We develop advanced mass spectrometry–based structural proteomics platforms to
 <div class="news-wrap">
   <div class="news-box">  
     <div class="news-item">
+      <div class="news-date">2026-10</div>
+      <div class="news-text">
+        Our work on Mass spectrometry-based footprinting strategies for GPCR structure analysis was published in JASMS! https://doi.org/10.1021/jasms.6c00278
+      </div>
+    </div>   
+       
+    <div class="news-item">
       <div class="news-date">2026-06</div>
       <div class="news-text">
         Our work on MS-based footprinting about intrinsically disordered protein Tau 2N4R was published in Analytical Chemistry! https://pubs.acs.org/doi/full/10.1021/acs.analchem.6c00046
