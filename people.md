@@ -48,13 +48,13 @@ permalink: /people/
 
   <div class="member-card">
     <div class="member-photo">
-      <img src="{{ site.baseurl }}/assets/images/people/2026Fall.jpeg" alt="member" loading="lazy">
+      <img src="{{ site.baseurl }}/assets/images/people/2026Fall.jfif" alt="member" loading="lazy">
     </div>
   </div> 
 
   <div class="member-card">
     <div class="member-photo">
-      <img src="{{ site.baseurl }}/assets/images/people/2026.jpeg" alt="member" loading="lazy">
+      <img src="{{ site.baseurl }}/assets/images/people/2026.jfif" alt="member" loading="lazy">
     </div>
   </div>
   
